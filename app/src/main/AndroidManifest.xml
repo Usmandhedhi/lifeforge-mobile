@@ -19,12 +19,11 @@
         tools:ignore="ProtectedPermissions" />
 
     <application
-        aandroid:name=".LifeForgeApp"
+        android:name=".LifeForgeApp"
         android:allowBackup="true"
         android:icon="@android:drawable/sym_def_app_icon"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LifeForge">
         android:theme="@style/Theme.LifeForge">
 
         <!-- Main UI Activity -->
