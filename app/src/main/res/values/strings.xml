@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifeForge</string>
+    <string name="shield_notification_title">Bedtime Shield Active</string>
+    <string name="shield_notification_text">Internet blocked to enforce sleep. Sleep well for your daughters\' future!</string>
+    <string name="shield_channel_name">Bedtime Protection Shield</string>
+    <string name="shield_channel_desc">Active during bedtime hours to cut distractions</string>
+</resources>
